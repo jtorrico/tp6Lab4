@@ -12,7 +12,7 @@ Vue.config.productionTip = false
 
 Vue.use(VueGoogleMaps, {
   load: {
-    key: "AIzaSyASPnMx0424fYtAcg_2jVxGQcmNNGCSUV4"
+    key: "API_KEY"
   }
 });
 
